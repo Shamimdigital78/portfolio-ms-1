@@ -1,0 +1,8 @@
+/* Univarse/common for all pages*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+/* Common for body *
