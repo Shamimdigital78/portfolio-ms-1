@@ -1,9 +1,11 @@
-/* Univarse/common for all pages*/
+/* Universal/common for all pages*/
 /* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;  
 } */
+
+/* ++++++++++++++++ */
 /* Common shared style */
 body{
     font-family: 'Open Sans', sans-serif;
@@ -21,7 +23,7 @@ body{
     padding: 18px 35px;
 
 }
-
+/* ++++++++++++++ */
 /* Nav styles */
 nav{
     display: flex;
@@ -47,6 +49,7 @@ font-size: 45px;
 font-weight: 800;
 color:#181818;
 }
+/* ++++++++++++++++++++ */
 /* Header style started*/
 .header-section{
     background-color: #FFF8F3;
@@ -91,7 +94,7 @@ margin-bottom: 20px;
     width: 500px;
 }
 /* Section end */
-
+/* ++++++++++++++++++++++++ */
 /* Main section Start */
 main{
     max-width: 1140px;
@@ -149,8 +152,8 @@ height: 377px;
 /* flex-shrink: 0; */
 border-radius: 5px;
 background: #FFF;
-box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
-padding: 30px 30px;
+box-shadow: 0px 7px 50px 0px rgba(0, 0, 0, 0.07);
+padding: 10px 30px;
 margin: 0 10px;
 /* display: flex; */
 }
@@ -174,3 +177,5 @@ line-height: 28px;
     display: flex;
     justify-content: space-between;
 }
+/* +++++++++++++++ */
+/* Resume summery */
