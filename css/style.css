@@ -256,6 +256,7 @@ font-weight: 700;
 textarea{
   margin-top: 10px;
   margin-bottom: 15px;
+  border: none;
 }
 input{
   border: none;
@@ -263,10 +264,6 @@ input{
   padding: 15px;
   width: 300px;
 }
-textarea{
-  border: none;
-}
-
 /* +++++++++++++ */
 /* Footer section end */
 
